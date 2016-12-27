@@ -31,4 +31,5 @@ int main(void)
         printf("\v");
         break;
   }
+  return 0;
 }
